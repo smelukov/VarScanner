@@ -1,4 +1,5 @@
 VarScanner
 ==========
 
-Simple variants scanner for my article - http://smelukov.com/php-regexp-and-opcodes/
+Simple variants scanner.
+For my article - http://smelukov.com/php-regexp-and-opcodes/
